@@ -1,0 +1,10 @@
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Prog65h.exe.config
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Prog65h.exe
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Prog65h.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\IronPython.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\IronPython.Modules.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\obj\Debug\Prog65h.pyprojResolveAssemblyReference.cache
+C:\Users\boll.c\Desktop\CodeFolder\Prog65h\Prog65h\obj\Debug\Prog65h.exe

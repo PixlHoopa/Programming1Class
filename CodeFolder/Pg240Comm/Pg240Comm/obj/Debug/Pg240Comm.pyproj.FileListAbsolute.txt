@@ -1,0 +1,12 @@
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Pg240Comm.exe.config
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Pg240Comm.exe
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Pg240Comm.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\IronPython.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\IronPython.Modules.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\obj\Debug\Pg240Comm.pyprojResolveAssemblyReference.cache
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\obj\Debug\Pg240Comm.MainForm.resources
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\obj\Debug\Pg240Comm.pyproj.GenerateResource.Cache
+C:\Users\boll.c\Desktop\CodeFolder\Pg240Comm\Pg240Comm\obj\Debug\Pg240Comm.exe

@@ -1,0 +1,3 @@
+C:\Users\boll.c\Desktop\CodeFolder\Throne\TheZenithOfProgramming1\TheZenithOfProgramming1\obj\Debug\TheZenithOfProgramming1.pyprojResolveAssemblyReference.cache
+C:\Users\boll.c\Desktop\CodeFolder\Throne\TheZenithOfProgramming1\TheZenithOfProgramming1\obj\Debug\TheZenithOfProgramming1.MainForm.resources
+C:\Users\boll.c\Desktop\CodeFolder\Throne\TheZenithOfProgramming1\TheZenithOfProgramming1\obj\Debug\TheZenithOfProgramming1.pyproj.GenerateResource.Cache

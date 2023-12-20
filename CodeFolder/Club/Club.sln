@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "Club", "Club\Club.rbproj", "{C161FB49-D39F-4B64-836E-2BE6D45D4B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C161FB49-D39F-4B64-836E-2BE6D45D4B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C161FB49-D39F-4B64-836E-2BE6D45D4B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C161FB49-D39F-4B64-836E-2BE6D45D4B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C161FB49-D39F-4B64-836E-2BE6D45D4B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

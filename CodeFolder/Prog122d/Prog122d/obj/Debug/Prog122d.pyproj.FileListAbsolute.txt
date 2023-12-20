@@ -1,0 +1,12 @@
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Prog122d.exe.config
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Prog122d.exe
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Prog122d.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\IronPython.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\IronPython.Modules.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Microsoft.Scripting.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\obj\Debug\Prog122d.pyprojResolveAssemblyReference.cache
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\obj\Debug\Prog122d.MainForm.resources
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\obj\Debug\Prog122d.pyproj.GenerateResource.Cache
+C:\Users\boll.c\Desktop\CodeFolder\Prog122d\Prog122d\obj\Debug\Prog122d.exe
